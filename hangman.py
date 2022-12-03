@@ -37,4 +37,5 @@ def hangman():
         print("You died! The word was ", word)
     else:
         print("Congrats! You won!")
+
 hangman()
